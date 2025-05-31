@@ -23,7 +23,7 @@ L’objectif principal du stage était de contribuer à l’analyse statistique 
 - ✔️ Attestation de stage : `attestation.pdf`
 - ✔️ Présentation finale : `presentation.pdf`
 
-## 🛠 Outils et logiciels utilisés
+##  Outils et logiciels utilisés
 
 - Excel, SPSS, Stata  
 - Word, PowerPoint  
